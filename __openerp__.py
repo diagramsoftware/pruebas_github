@@ -5,7 +5,7 @@
 
 {
     "name": "Odoo pruebas",
-    "version": "8.0.4.1",
+    "version": "8.0.5.0",
     "author": "Diagram Software, S.L.",
     "category": "NubeaERP",
     "summary": "odoo_pruebas",
